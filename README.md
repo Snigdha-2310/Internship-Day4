@@ -55,4 +55,4 @@ The dashboard was created using **Microsoft Excel** for data preprocessing and *
 ## 📂 Dataset
 
 The dataset used in this project can be found here:  
-📄 [`Financial Sample.xls`](https://github.com/nikitaprasad21/Financial-Analysis/blob/main/Financial%20Sample
+📄 [`Financial Sample.xls`](https://github.com/Snigdha-2310/Internship-Day4/blob/main/Financial%20Sample.xls)
